@@ -1,0 +1,16 @@
+<!--Copyright (c) 2014, Fashiontec (http://fashiontec.org)-->
+<!--Licensed under LGPL, Version 3-->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/leg"
+        android:textColor="#F09918"
+        android:textSize="48sp" />
+
+</ScrollView>
